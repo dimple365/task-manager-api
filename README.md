@@ -20,7 +20,7 @@ A simple RESTful API built using FastAPI for managing tasks with CRUD operations
 2. Run the server
 3. Open in browser
 
-## 📌 API Endpoints
+## API Endpoints
 
 - POST /tasks → Create task  
 - GET /tasks → Get all tasks  
